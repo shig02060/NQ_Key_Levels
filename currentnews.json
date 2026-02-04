@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-02-04T21:25:10Z",
+  "events": [
+    {
+      "date": "2026-02-05",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Initial Jobless Claims"
+    },
+    {
+      "date": "2026-02-06",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Average Hourly Earnings (MoM)  (Jan)"
+    },
+    {
+      "date": "2026-02-06",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Nonfarm Payrolls  (Jan)"
+    },
+    {
+      "date": "2026-02-06",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Unemployment Rate  (Jan)"
+    },
+    {
+      "date": "2026-02-10",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Core Retail Sales (MoM)  (Dec)"
+    },
+    {
+      "date": "2026-02-10",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Retail Sales (MoM)  (Dec)"
+    },
+    {
+      "date": "2026-02-11",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Core CPI (MoM)  (Jan)"
+    },
+    {
+      "date": "2026-02-11",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "CPI (MoM)  (Jan)"
+    },
+    {
+      "date": "2026-02-11",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "CPI (YoY)  (Jan)"
+    },
+    {
+      "date": "2026-02-11",
+      "time": "10:00",
+      "currency": "USD",
+      "impact": "High",
+      "event": "10-Year Note Auction"
+    },
+    {
+      "date": "2026-02-12",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Initial Jobless Claims"
+    },
+    {
+      "date": "2026-02-12",
+      "time": "07:00",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Existing Home Sales  (Jan)"
+    }
+  ]
+}
