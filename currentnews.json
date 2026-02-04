@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T21:25:10Z",
+  "lastUpdated": "2026-02-04T14:17:20Z",
   "events": [
     {
       "date": "2026-02-05",
@@ -9,18 +9,11 @@
       "event": "Initial Jobless Claims"
     },
     {
-      "date": "2026-02-06",
-      "time": "05:30",
+      "date": "2026-02-05",
+      "time": "07:00",
       "currency": "USD",
       "impact": "High",
-      "event": "Average Hourly Earnings (MoM)  (Jan)"
-    },
-    {
-      "date": "2026-02-06",
-      "time": "05:30",
-      "currency": "USD",
-      "impact": "High",
-      "event": "Nonfarm Payrolls  (Jan)"
+      "event": "JOLTS Job Openings  (Dec)"
     },
     {
       "date": "2026-02-06",
@@ -48,21 +41,21 @@
       "time": "05:30",
       "currency": "USD",
       "impact": "High",
-      "event": "Core CPI (MoM)  (Jan)"
+      "event": "Average Hourly Earnings (MoM)  (Jan)"
     },
     {
       "date": "2026-02-11",
       "time": "05:30",
       "currency": "USD",
       "impact": "High",
-      "event": "CPI (MoM)  (Jan)"
+      "event": "Nonfarm Payrolls  (Jan)"
     },
     {
       "date": "2026-02-11",
       "time": "05:30",
       "currency": "USD",
       "impact": "High",
-      "event": "CPI (YoY)  (Jan)"
+      "event": "Unemployment Rate  (Jan)"
     },
     {
       "date": "2026-02-11",
@@ -84,6 +77,90 @@
       "currency": "USD",
       "impact": "High",
       "event": "Existing Home Sales  (Jan)"
+    },
+    {
+      "date": "2026-02-13",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Core CPI (MoM)  (Jan)"
+    },
+    {
+      "date": "2026-02-13",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "CPI (MoM)  (Jan)"
+    },
+    {
+      "date": "2026-02-13",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "CPI (YoY)  (Jan)"
+    },
+    {
+      "date": "2026-02-19",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Philadelphia Fed Manufacturing Index  (Feb)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Core PCE Price Index (MoM)  (Dec)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Core PCE Price Index (YoY)  (Dec)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "05:30",
+      "currency": "USD",
+      "impact": "High",
+      "event": "GDP (QoQ)  (Q4)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "06:45",
+      "currency": "USD",
+      "impact": "High",
+      "event": "S&P Global Manufacturing PMI  (Feb)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "06:45",
+      "currency": "USD",
+      "impact": "High",
+      "event": "S&P Global Services PMI  (Feb)"
+    },
+    {
+      "date": "2026-02-20",
+      "time": "07:00",
+      "currency": "USD",
+      "impact": "High",
+      "event": "New Home Sales  (Dec)"
+    },
+    {
+      "date": "2026-02-24",
+      "time": "07:00",
+      "currency": "USD",
+      "impact": "High",
+      "event": "CB Consumer Confidence  (Feb)"
+    },
+    {
+      "date": "2026-03-18",
+      "time": "10:00",
+      "currency": "USD",
+      "impact": "High",
+      "event": "Fed Interest Rate Decision"
     }
   ]
 }
