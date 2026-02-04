@@ -1,0 +1,219 @@
+# Current Market News
+
+<div style='font-family: Arial, sans-serif; background-color: #1e1e1e; padding: 10px;'>
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">05:15am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                ADP Nonfarm Employment Change  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">06:00am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                JOLTS Job Openings  (Dec)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">06:45am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                S&P Global Services PMI  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">07:00am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                ISM Non-Manufacturing PMI  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">07:00am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                ISM Non-Manufacturing Prices  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">Wed Feb 04</span>
+                <span style="color: #1E90FF; font-weight: bold; font-size: 11px;">07:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Crude Oil Inventories
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Thu Feb 05</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Initial Jobless Claims
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Fri Feb 06</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Average Hourly Earnings (MoM)  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Fri Feb 06</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Nonfarm Payrolls  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Fri Feb 06</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Unemployment Rate  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Tue Feb 10</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Core Retail Sales (MoM)  (Dec)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Tue Feb 10</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Retail Sales (MoM)  (Dec)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Wed Feb 11</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Core CPI (MoM)  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Wed Feb 11</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                CPI (MoM)  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Wed Feb 11</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                CPI (YoY)  (Jan)
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Wed Feb 11</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">10:00am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                10-Year Note Auction
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Thu Feb 12</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">05:30am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Initial Jobless Claims
+            </div>
+        </div>
+        
+        <div style="background-color: #1e1e1e; padding: 10px; border-bottom: 1px solid #333; margin-bottom: 5px;">
+            <div style="display: flex; flex-direction: row; gap: 8px; align-items: center; margin-bottom: 4px;">
+                <span style="color: #888888; font-weight: bold; font-size: 11px;">Thu Feb 12</span>
+                <span style="color: #aaaaaa; font-weight: normal; font-size: 11px;">07:00am</span>
+                <span style="color: #4CAF50; font-weight: bold; font-size: 11px;">USD</span>
+                <span style="color: #ff5555; font-weight: bold; font-size: 11px; border: 1px solid #ff5555; border-radius: 3px; padding: 0 4px;">High</span>
+            </div>
+            <div style="color: white; font-size: 13px; font-weight: 500;">
+                Existing Home Sales  (Jan)
+            </div>
+        </div>
+        </div>
