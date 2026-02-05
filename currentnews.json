@@ -1,30 +1,16 @@
 {
-  "lastUpdated": "2026-02-04T14:17:20Z",
+  "lastUpdated": "2026-02-05T11:38:52Z",
   "events": [
     {
       "date": "2026-02-05",
-      "time": "11:28",
+      "time": "16:00",
       "currency": "USD",
       "impact": "High",
-      "event": "Initial Jobless Claims"
-    },
-    {
-      "date": "2026-02-05",
-      "time": "07:00",
-      "currency": "USD",
-      "impact": "High",
-      "event": "JOLTS Job Openings  (Dec)"
-    },
-    {
-      "date": "2026-02-06",
-      "time": "05:30",
-      "currency": "USD",
-      "impact": "High",
-      "event": "Unemployment Rate  (Jan)"
+      "event": "U.S. President Trump Speaks"
     },
     {
       "date": "2026-02-10",
-      "time": "05:30",
+      "time": "11:48",
       "currency": "USD",
       "impact": "High",
       "event": "Core Retail Sales (MoM)  (Dec)"
@@ -164,4 +150,3 @@
     }
   ]
 }
-
