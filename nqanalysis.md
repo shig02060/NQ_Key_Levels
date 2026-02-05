@@ -1,31 +1,51 @@
 # NQ Analysis
 
-*Generated: 2026-02-05 12:14:07*
+*Generated: 2026-02-05 12:27:37*
 
-Based on the analysis of the 5-minute, 15-minute, 1-Hour, and 4-Hour charts for NQ (Nasdaq 100 Futures), here is a comprehensive summary.
+Based on the provided charts for the Nasdaq 100 Futures (NQ), here is a comprehensive technical analysis across the 5-minute, 15-minute, 1-hour, and 4-hour time frames.
 
 ### **Executive Summary**
-The NQ is currently in a **strong bearish trend** across short and medium time frames, having sold off aggressively from the 26000 highs down to the current 24600 region. However, price action is currently sitting at a critical **macro support level (~24500)** visible on the 4H chart. The market is pausing here, deciding whether to bounce (technical correction) or break down further (trend continuation).
+The NQ is currently in a **strong bearish trend** across all observed time frames. The market has experienced a significant liquidation event, breaking through multiple support structures. While the momentum is heavily favoring sellers, the lower time frames and RSI levels suggest the market is overextended to the downside, raising the probability of a short-term relief bounce or consolidation before the next major move.
 
 ---
 
-### **Technical Analysis by Time Frame**
+### **Time Frame Analysis**
 
-#### **1. Intraday Micro-Structure (5-Min & 15-Min Charts)**
-*   **Trend:** Bearish but consolidating. After a steep drop from ~25040, the price has stabilized between **24550 and 24800**.
-*   **Dynamic Resistance (Orange Line):** On both charts, the orange moving average/indicator has acted as perfect dynamic resistance. Every attempt to rally back to this line has been met with selling pressure (notably at 24900 and 24800).
-*   **Volume:** There was a massive volume spike during the capitulation drop to 24550 (visible on the 5-min chart around 14:30). Subsequent buying volume is weaker, suggesting a lack of aggressive buyers so far.
-*   **RSI:** Hovering between 40-60 on the 5-min chart, indicating the immediate selling pressure has neutralized, and the market is waiting for the next catalyst.
+#### **1. 5-Minute Chart (Intraday Micro-Structure)**
+*   **Trend:** **Bearish but consolidating.** The chart shows a massive intraday drop from 25040 to a low of ~24560.
+*   **Price Action:** Following the capitulation bottom at 24560, price has staged a weak recovery, chopping between 24700 and 24800.
+*   **VWAP (Orange Line):** The price is currently trading *below* the VWAP (approx. 24780-24800), which indicates sellers are still in control of the average price. However, the gap between price and VWAP has narrowed, suggesting equilibrium is being sought.
+*   **Observation:** The volume spike at the bottom (around 14:45) suggests a capitulation/stopping volume event, often marking a temporary bottom.
 
-#### **2. Swing Perspective (1-Hour Chart)**
-*   **Trend:** Clearly Bearish. The chart shows a series of lower highs and lower lows starting from Feb 3.
-*   **Pattern:** The move down from 25600 was impulsive. We are seeing a potential "Bear Flag" or consolidation box forming at the lows.
-*   **RSI:** The RSI dipped into oversold territory (<30) and is currently curling up slightly. This often precedes a relief bounce or a sideways consolidation period before trend resumption.
+#### **2. 15-Minute Chart (Short-Term Trend)**
+*   **Trend:** **Strongly Bearish.**
+*   **Price Action:** This chart highlights the severity of the drop. The market broke a consolidation shelf at 25400 and cascaded down.
+*   **VWAP:** The VWAP acts as a dynamic resistance. The price is significantly deviated from the VWAP, which is trailing much higher (around 24900-25000).
+*   **Pattern:** "Waterfall" decline. The current consolidation (24600-24800) looks like a potential **Bear Flag**. Unless price reclaims the 24900 level, the path of least resistance remains down.
 
-#### **3. Macro Perspective (4-Hour Chart)**
-*   **Context:** This chart provides the most crucial context. The area of **24500 - 24600** was a significant swing low/support zone around Jan 20. We have returned to this "scene of the crime."
-*   **Candlestick Setup:** The most recent completed 4H candle appears to be a **Hammer or Doji**, suggesting seller exhaustion at support. The current live candle is green, attempting to validate that support.
-*   **RSI:** Approaching oversold levels (near 30), which historically on this chart leads to a bounce (as seen on Jan 20).
+#### **3. 1-Hour Chart (Medium-Term Swing)**
+*   **Trend:** **Bearish.**
+*   **Structure:** Distinct lower highs and lower lows. The chart shows a failure at the 26000+ highs (Feb 3), leading to a rapid unwind.
+*   **Key Level Breach:** The breakdown below 25200 was critical. This level will now act as significant overhead resistance on any rally.
+*   **Support:** The chart suggests the price is entering a demand zone from late January (Jan 29-30) around the **24500** area.
+
+#### **4. 4-Hour Chart (Macro Structure)**
+*   **Trend:** **Correction/Bearish Reversal.**
+*   **Pattern:** The top of the chart (26000-26400) resembles a **Double Top** or a complex Head and Shoulders distribution pattern.
+*   **Support Test:** We are currently testing the support generated by the swing lows of Jan 20th (~24500). If this level fails, the next major structural support is significantly lower (potentially 24000-24200).
+*   **RSI:** The 4H RSI is dipping below 30 (oversold). In strong trends, RSI can stay oversold, but it often precedes a snap-back rally.
+
+---
+
+### **Key Technical Indicators**
+
+*   **RSI (Relative Strength Index):**
+    *   **5m/15m:** RSI hit extreme lows (sub-20) and has recovered to neutral zones (40-60). This "reset" allows bears to reload or bulls to attempt a reversal.
+    *   **4H:** RSI is entering oversold territory. This suggests the move is extended, and chasing shorts here carries higher risk of a squeeze.
+*   **VWAP (Volume Weighted Average Price):**
+    *   Visible on 5m/15m charts. Price remains below VWAP, confirming bearish dominance. The first sign of a bullish reversal would be a sustained 5-minute candle close *above* the VWAP (approx. 24800).
+*   **Volume:**
+    *   High volume on the decline confirms institutional selling. The volume climax at the lows on the 5m chart indicates a battle between panic sellers and limit buyers.
 
 ---
 
@@ -33,36 +53,32 @@ The NQ is currently in a **strong bearish trend** across short and medium time f
 
 | Level Type | Price Zone | Significance |
 | :--- | :--- | :--- |
-| **Major Resistance** | **25,100 - 25,200** | Breakdown level; heavy supply zone. |
-| **Intraday Resistance** | **24,800 - 24,850** | Top of current consolidation box & testing the moving average. |
-| **Pivot / Resistance** | **24,700** | Mid-range resistance. |
-| **Current Price** | **~24,680** | Trading within the range. |
-| **Immediate Support** | **24,540 - 24,550** | Intraday double bottom lows. |
-| **Critical Support** | **24,480 - 24,500** | Major 4H structural support. **The Line in the Sand.** |
-| **Next Downside Target** | **24,200** | If 24,500 fails, price likely flushes to here. |
+| **Resistance 1** | **24,800 - 24,820** | Immediate intraday resistance & 5m VWAP confluence. |
+| **Resistance 2** | **25,000** | Psychological level & 15m VWAP area. |
+| **Resistance 3** | **25,200 - 25,250** | Major structural breakdown level (1H chart). "Line in the sand" for bears. |
+| **Current Price**| **~24,750** | (Fluctuating) |
+| **Support 1** | **24,560** | Intraday low (stopping volume level). |
+| **Support 2** | **24,480 - 24,500** | Major swing low from Jan 20 (4H chart). Critical defense zone. |
+| **Support 3** | **24,200** | Next structural support if 24,500 fails. |
 
 ---
 
-### **Potential Trade Opportunities & Scenarios**
+### **Actionable Insights & Scenarios**
 
-#### **Scenario A: The "Dead Cat Bounce" (Counter-Trend Long)**
-*   **Thesis:** Sellers are exhausted hitting the major 24500 4H support.
-*   **Trigger:** Look for a clear 5-min or 15-min candle close above **24,700** or a double bottom retest of 24,550 that holds.
-*   **Target:** 24,800 (first target) and 25,000 (extended target/gap fill).
-*   **Stop Loss:** Tight stop below 24,520.
+#### **Scenario A: Bearish Continuation (Trend Follow)**
+*   **The Setup:** Look for a rejection at **24,800** (VWAP) or **25,000**. If price rallies into these zones and shows weakness (shooting star candles, volume drop off), it is a short entry.
+*   **Trigger:** A break below **24,560** opens the door to **24,480** and potentially lower.
+*   **Target:** 24,500 initially, then open runners for lower lows.
 
-#### **Scenario B: Bearish Continuation (Trend Following)**
-*   **Thesis:** The consolidation is a "Bear Flag" and the 4H support will fail.
-*   **Trigger:** A high-volume breakdown below **24,500**.
-*   **Target:** 24,200.
-*   **Alternate Entry:** Rejecting the **24,800** resistance level. If price rallies to 24,800 and prints a bearish reversal candle (shooting star), enter short.
-
----
+#### **Scenario B: Bullish Reversal (Counter-Trend Scalp)**
+*   **The Setup:** Price must reclaim the 5m VWAP (**~24,800**).
+*   **Confirmation:** A "Higher Low" on the 5m chart above 24,600 followed by a breakout above 24,820.
+*   **Target:** A mean reversion trade back to the **25,000 - 25,100** area (retesting the breakdown point).
+*   *Note: This is high risk as it fights the dominant 4H/1H trend.*
 
 ### **Risk Considerations**
-1.  **Don't Short the Lows:** Shorting right at 24,600 is risky because you are pressing into major 4H support. Risk/reward favors waiting for a bounce to short *or* a confirmed breakdown.
-2.  **Volatility:** The ranges are wide (100+ point candles). Position sizing should be reduced to accommodate wider stops.
-3.  **Volume Check:** Watch the volume on any bounce. If the price rises on low volume, it is likely a trap (bear flag) and will roll over.
+1.  **Oversold Conditions:** The 4H RSI is oversold. Shorts entered at current levels (24700s) are late to the move and vulnerable to violent "short covering" rallies.
+2.  **Volatility:** The candle sizes are large. Stops need to be wider to avoid noise, requiring smaller position sizing.
+3.  **The "Trap":** The current consolidation on the 5m chart could be a "Bear Flag" (continuation pattern). Buying support blindly is dangerous without confirmation of a trend change (break of market structure).
 
-### **Verdict**
-The market is **Bearish** but at **Support**. The path of least resistance is down, *however*, a relief bounce from 24,500 toward 24,800 is a high probability before the next major decision is made. Watch 24,500 closely; if that breaks, the selling will accelerate.
+**Verdict:** The market remains **Bearish**. The most prudent approach is to wait for a bounce into resistance (24800-25000) to short, or wait for a confirmed breakdown of 24500. Longs should only be taken as quick scalps if a clear double bottom forms on the 5m chart.
