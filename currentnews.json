@@ -3,7 +3,7 @@
   "events": [
     {
       "date": "2026-02-05",
-      "time": "05:30",
+      "time": "11:28",
       "currency": "USD",
       "impact": "High",
       "event": "Initial Jobless Claims"
@@ -164,3 +164,4 @@
     }
   ]
 }
+
